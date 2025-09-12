@@ -37,7 +37,7 @@ Due to limitations in sharing private banking data, this project leverages **pub
 3. **Modeling**  
    - **Phase 1:** Segment-level forecasting with ARIMA, Exponential Smoothing, Prophet  
    - **Phase 2:** Customer-level forecasting with LSTM/GRU
-   -  
+   
 ## 🚀 Expected Outcome
   - A validated LSTM model capable of forecasting individualized customer behavior.
   - Benchmark comparisons between statistical models and deep learning approaches.
